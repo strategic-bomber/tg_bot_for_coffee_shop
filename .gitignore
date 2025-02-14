@@ -1,0 +1,4 @@
+.venv
+main1.py
+*db
+settings.py
