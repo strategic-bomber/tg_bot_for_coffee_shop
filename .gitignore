@@ -2,3 +2,4 @@
 main1.py
 *db
 settings.py
+__pycache__
